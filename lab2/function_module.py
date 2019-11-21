@@ -1,5 +1,5 @@
 import math, random
-
+from tkinter import *
 def makeWindow():
     '''this function creating window for input x_max and x_min '''
     def getCordinate():
