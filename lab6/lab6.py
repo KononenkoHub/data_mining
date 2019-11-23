@@ -1,5 +1,4 @@
 import math
-from random import gauss
 import matplotlib.pyplot as plt
 import numpy as np
 import random
@@ -7,7 +6,7 @@ import random
 
 MEAN = 0
 VARIANCE = 1
-T = 1
+T = 3
 
 
 class Point():
